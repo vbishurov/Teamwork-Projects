@@ -1,0 +1,15 @@
+[submodule "Web-Fundamentals-Teamwork"]
+	path = Web-Fundamentals-Teamwork
+	url = https://github.com/BURNT-ORANGE/Web-Fundamentals-Teamwork.git
+[submodule "JS-Teamwork"]
+	path = JS-Teamwork
+	url = https://github.com/Team-redcurrant/JS-Teamwork
+[submodule "TeamProject"]
+	path = TeamProject
+	url = https://github.com/Team-Bogota-PHP/TeamProject
+[submodule "Teamwork-OOP"]
+	path = Teamwork-OOP
+	url = https://github.com/Team-Sweet-William/Teamwork-OOP
+[submodule "JavaTeamwork"]
+	path = JavaTeamwork
+	url = https://github.com/krastoss/JavaTeamwork
