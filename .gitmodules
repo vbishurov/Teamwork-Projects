@@ -2,14 +2,14 @@
 	path = Web-Fundamentals-Teamwork
 	url = https://github.com/BURNT-ORANGE/Web-Fundamentals-Teamwork.git
 [submodule "JS-Teamwork"]
-	path = JS-Teamwork
+	path = JavaScript-Teamwork
 	url = https://github.com/Team-redcurrant/JS-Teamwork
 [submodule "TeamProject"]
-	path = TeamProject
+	path = PHP-Teamwork
 	url = https://github.com/Team-Bogota-PHP/TeamProject
 [submodule "Teamwork-OOP"]
-	path = Teamwork-OOP
+	path = OOP-Teamwork
 	url = https://github.com/Team-Sweet-William/Teamwork-OOP
 [submodule "JavaTeamwork"]
-	path = JavaTeamwork
+	path = Java-Teamwork
 	url = https://github.com/krastoss/JavaTeamwork
